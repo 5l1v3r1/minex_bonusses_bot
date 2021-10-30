@@ -1,2 +1,9 @@
-# minex_bonusses_bot
- Minex Bonusses Bot
+# Minex Bonusses Bot
+
+
+### Language: C# 
+
+### System Req
+
+### Chrome Driver
+
