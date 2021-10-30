@@ -1,0 +1,11 @@
+C:\Users\turkl\source\repos\MinexBot\MinexBot\bin\Debug\MinexBot.exe.config
+C:\Users\turkl\source\repos\MinexBot\MinexBot\bin\Debug\MinexBot.exe
+C:\Users\turkl\source\repos\MinexBot\MinexBot\bin\Debug\MinexBot.pdb
+C:\Users\turkl\source\repos\MinexBot\MinexBot\bin\Debug\WebDriver.dll
+C:\Users\turkl\source\repos\MinexBot\MinexBot\obj\Debug\MinexBot.csproj.AssemblyReference.cache
+C:\Users\turkl\source\repos\MinexBot\MinexBot\obj\Debug\MinexBot.Form1.resources
+C:\Users\turkl\source\repos\MinexBot\MinexBot\obj\Debug\MinexBot.Properties.Resources.resources
+C:\Users\turkl\source\repos\MinexBot\MinexBot\obj\Debug\MinexBot.csproj.GenerateResource.cache
+C:\Users\turkl\source\repos\MinexBot\MinexBot\obj\Debug\MinexBot.csproj.CoreCompileInputs.cache
+C:\Users\turkl\source\repos\MinexBot\MinexBot\obj\Debug\MinexBot.exe
+C:\Users\turkl\source\repos\MinexBot\MinexBot\obj\Debug\MinexBot.pdb
